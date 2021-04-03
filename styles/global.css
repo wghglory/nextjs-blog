@@ -29,3 +29,10 @@ img {
   max-width: 100%;
   display: block;
 }
+
+p {
+  margin: 1rem 0;
+}
+li {
+  list-style-type: disc;
+}
