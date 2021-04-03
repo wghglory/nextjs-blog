@@ -1,5 +1,7 @@
 import Head from 'next/head';
 
+// http://localhost:3000/
+
 export default function Home() {
   return (
     <div className='container'>
